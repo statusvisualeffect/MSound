@@ -1,0 +1,17 @@
+{
+    "left": true,
+    "right": true,
+    "middle": true,
+    "keyboard": true,
+    "left_path": "sounds\\LMouseClick.wav",
+    "right_path": "sounds\\RMouseClick.wav",
+    "middle_path": "sounds\\MButton.wav",
+    "keyboard_path": "sounds\\KB.mp3",
+    "theme": "dark",
+    "toggle_keys": [
+        "a",
+        "f",
+        "e"
+    ],
+    "volume": 100
+}
